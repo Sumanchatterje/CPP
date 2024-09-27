@@ -1,0 +1,4 @@
+# ninja log v5
+2	139	7484031813618541	build.ninja	ab45824cf48cdc65
+1	314	7484031817472082	CMakeFiles/CPP.dir/floyd.cpp.obj	62137d2ef90be9ec
+315	410	7484031818402928	CPP.exe	5ddd1dad2c25362a
