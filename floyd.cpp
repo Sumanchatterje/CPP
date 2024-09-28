@@ -1,6 +1,7 @@
 //wap in cpp to print recursive floyd triangle
 #include <iostream>
 using namespace std;
+
 void floyd(int row, int n, int &val) {
     if (row > n) return;
     for (int i = 1; i <= row; ++i) {
