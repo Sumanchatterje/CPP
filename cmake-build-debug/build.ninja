@@ -61,6 +61,12 @@ build CMakeFiles/CPP.dir/DAY-3/Q11_ATM.cpp.obj: CXX_COMPILER__CPP_unscanned_Debu
   OBJECT_DIR = CMakeFiles\CPP.dir
   OBJECT_FILE_DIR = CMakeFiles\CPP.dir\DAY-3
 
+build CMakeFiles/CPP.dir/DAY-3/Q12.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Suman/Documents/CPP/DAY-3/Q12.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\DAY-3\Q12.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\DAY-3
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPP
@@ -69,7 +75,7 @@ build CMakeFiles/CPP.dir/DAY-3/Q11_ATM.cpp.obj: CXX_COMPILER__CPP_unscanned_Debu
 #############################################
 # Link the executable CPP.exe
 
-build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/floyd.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q11_ATM.cpp.obj
+build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/floyd.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q11_ATM.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q12.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP.dir
