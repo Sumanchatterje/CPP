@@ -3,6 +3,6 @@ project(CPP)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CPP floyd.cpp
+add_executable(CPP DAY-4/floyd.cpp
         DAY-3/Q11_ATM.cpp
         DAY-3/Q12_ShoppingList.cpp)
