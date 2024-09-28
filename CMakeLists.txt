@@ -3,4 +3,5 @@ project(CPP)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CPP floyd.cpp)
+add_executable(CPP floyd.cpp
+        DAY-3/Q11_ATM.cpp)
