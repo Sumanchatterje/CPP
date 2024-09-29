@@ -49,11 +49,11 @@ cmake_ninja_workdir = C$:/Users/Suman/Documents/CPP/cmake-build-debug/
 
 build cmake_object_order_depends_target_CPP: phony || CMakeFiles/CPP.dir
 
-build CMakeFiles/CPP.dir/floyd.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Suman/Documents/CPP/floyd.cpp || cmake_object_order_depends_target_CPP
-  DEP_FILE = CMakeFiles\CPP.dir\floyd.cpp.obj.d
+build CMakeFiles/CPP.dir/DAY-4/floyd.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Suman/Documents/CPP/DAY-4/floyd.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\DAY-4\floyd.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CPP.dir
-  OBJECT_FILE_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\DAY-4
 
 build CMakeFiles/CPP.dir/DAY-3/Q11_ATM.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/Suman/Documents/CPP/DAY-3/Q11_ATM.cpp || cmake_object_order_depends_target_CPP
   DEP_FILE = CMakeFiles\CPP.dir\DAY-3\Q11_ATM.cpp.obj.d
@@ -75,7 +75,7 @@ build CMakeFiles/CPP.dir/DAY-3/Q12_ShoppingList.cpp.obj: CXX_COMPILER__CPP_unsca
 #############################################
 # Link the executable CPP.exe
 
-build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/floyd.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q11_ATM.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q12_ShoppingList.cpp.obj
+build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/DAY-4/floyd.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q11_ATM.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q12_ShoppingList.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP.dir
