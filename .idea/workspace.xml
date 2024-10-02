@@ -21,29 +21,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33d647e6-1d5d-442b-a7d0-a5a1b452e942" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DAY-1/bsort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-1/insearch_of_stu.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-1/palin_str.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-1/train.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-2/AU_sem_marking.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-2/array_elm_pointers.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-2/count_vow_con.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-2/fibo_recur.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-2/str_fun_without_strh.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-2/struct_dist.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-4/faculties_details.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-4/stu_avg.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SI.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8b9bbd1a1d3affb15a3b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-29T12-38-14-0632.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-CPP-Debug-baee2f52d8537110afa4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hanoi.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-4/hanoi.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY-/SI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-5/SI.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY-/func_overload_area.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-5/func_overload_area.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +70,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Suman\Documents\CPP\DAY-" />
+      <recent name="C:\Users\Suman\Documents\CPP" />
       <recent name="C:\Users\Suman\Documents\CPP\DAY-4" />
     </key>
   </component>
@@ -155,7 +138,7 @@
       <workItem from="1727543915758" duration="2823000" />
       <workItem from="1727546875964" duration="80000" />
       <workItem from="1727613493742" duration="995000" />
-      <workItem from="1727877140723" duration="3584000" />
+      <workItem from="1727877140723" duration="4578000" />
     </task>
     <servers />
   </component>

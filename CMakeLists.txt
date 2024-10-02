@@ -18,5 +18,5 @@ add_executable(CPP DAY-4/floyd.cpp
         DAY-2/array_elm_pointers.c
         DAY-4/stu_avg.cpp
         DAY-4/faculties_details.cpp
-        DAY-/SI.cpp
-        DAY-/func_overload_area.cpp)
+        DAY-5/SI.cpp
+        DAY-5/func_overload_area.cpp)
