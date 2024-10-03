@@ -19,4 +19,5 @@ add_executable(CPP DAY-4/floyd.cpp
         DAY-4/stu_avg.cpp
         DAY-4/faculties_details.cpp
         DAY-5/SI.cpp
-        DAY-5/func_overload_area.cpp)
+        DAY-5/func_overload_area.cpp
+        DAY-6/constructor_overload.cpp)
