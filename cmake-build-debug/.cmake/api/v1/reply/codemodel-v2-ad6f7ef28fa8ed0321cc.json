@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "CPP::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CPP-Debug-90762559f346231998d1.json",
+					"jsonFile" : "target-CPP-Debug-73275041f8148941c06f.json",
 					"name" : "CPP",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Suman/Documents/CPP/cmake-build-debug",
-		"source" : "C:/Users/Suman/Documents/CPP"
+		"build" : "C:/Users/SumonK/Documents/GitHub/CPP/cmake-build-debug",
+		"source" : "C:/Users/SumonK/Documents/GitHub/CPP"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 7
 	}
 }

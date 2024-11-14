@@ -59,7 +59,10 @@
 				14,
 				15,
 				16,
-				17
+				17,
+				18,
+				19,
+				20
 			]
 		},
 		{
@@ -135,7 +138,10 @@
 				14,
 				15,
 				16,
-				17
+				17,
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -247,6 +253,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "DAY-6/constructor_overload.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DAY-7/multi_level.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DAY-7/hybrid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DAY-7/operator_overload.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
