@@ -175,6 +175,18 @@ build CMakeFiles/CPP.dir/DAY-7/operator_overload.cpp.obj: CXX_COMPILER__CPP_unsc
   OBJECT_DIR = CMakeFiles\CPP.dir
   OBJECT_FILE_DIR = CMakeFiles\CPP.dir\DAY-7
 
+build CMakeFiles/CPP.dir/DAY-8/virtual_func.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/SumonK/Documents/GitHub/CPP/DAY-8/virtual_func.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\DAY-8\virtual_func.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\DAY-8
+
+build CMakeFiles/CPP.dir/DAY-8/exception_handling.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Users/SumonK/Documents/GitHub/CPP/DAY-8/exception_handling.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\DAY-8\exception_handling.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\DAY-8
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPP
@@ -183,7 +195,7 @@ build CMakeFiles/CPP.dir/DAY-7/operator_overload.cpp.obj: CXX_COMPILER__CPP_unsc
 #############################################
 # Link the executable CPP.exe
 
-build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/DAY-4/floyd.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q11_ATM.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q12_ShoppingList.cpp.obj CMakeFiles/CPP.dir/DAY-1/train.c.obj CMakeFiles/CPP.dir/DAY-1/bsort.c.obj CMakeFiles/CPP.dir/DAY-1/insearch_of_stu.c.obj CMakeFiles/CPP.dir/DAY-1/palin_str.c.obj CMakeFiles/CPP.dir/DAY-2/struct_dist.c.obj CMakeFiles/CPP.dir/DAY-2/fibo_recur.c.obj CMakeFiles/CPP.dir/DAY-2/count_vow_con.c.obj CMakeFiles/CPP.dir/DAY-2/AU_sem_marking.c.obj CMakeFiles/CPP.dir/DAY-2/str_fun_without_strh.c.obj CMakeFiles/CPP.dir/DAY-2/array_elm_pointers.c.obj CMakeFiles/CPP.dir/DAY-4/stu_avg.cpp.obj CMakeFiles/CPP.dir/DAY-4/faculties_details.cpp.obj CMakeFiles/CPP.dir/DAY-5/SI.cpp.obj CMakeFiles/CPP.dir/DAY-5/func_overload_area.cpp.obj CMakeFiles/CPP.dir/DAY-6/constructor_overload.cpp.obj CMakeFiles/CPP.dir/DAY-7/multi_level.cpp.obj CMakeFiles/CPP.dir/DAY-7/hybrid.cpp.obj CMakeFiles/CPP.dir/DAY-7/operator_overload.cpp.obj
+build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/DAY-4/floyd.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q11_ATM.cpp.obj CMakeFiles/CPP.dir/DAY-3/Q12_ShoppingList.cpp.obj CMakeFiles/CPP.dir/DAY-1/train.c.obj CMakeFiles/CPP.dir/DAY-1/bsort.c.obj CMakeFiles/CPP.dir/DAY-1/insearch_of_stu.c.obj CMakeFiles/CPP.dir/DAY-1/palin_str.c.obj CMakeFiles/CPP.dir/DAY-2/struct_dist.c.obj CMakeFiles/CPP.dir/DAY-2/fibo_recur.c.obj CMakeFiles/CPP.dir/DAY-2/count_vow_con.c.obj CMakeFiles/CPP.dir/DAY-2/AU_sem_marking.c.obj CMakeFiles/CPP.dir/DAY-2/str_fun_without_strh.c.obj CMakeFiles/CPP.dir/DAY-2/array_elm_pointers.c.obj CMakeFiles/CPP.dir/DAY-4/stu_avg.cpp.obj CMakeFiles/CPP.dir/DAY-4/faculties_details.cpp.obj CMakeFiles/CPP.dir/DAY-5/SI.cpp.obj CMakeFiles/CPP.dir/DAY-5/func_overload_area.cpp.obj CMakeFiles/CPP.dir/DAY-6/constructor_overload.cpp.obj CMakeFiles/CPP.dir/DAY-7/multi_level.cpp.obj CMakeFiles/CPP.dir/DAY-7/hybrid.cpp.obj CMakeFiles/CPP.dir/DAY-7/operator_overload.cpp.obj CMakeFiles/CPP.dir/DAY-8/virtual_func.cpp.obj CMakeFiles/CPP.dir/DAY-8/exception_handling.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP.dir

@@ -23,4 +23,6 @@ add_executable(CPP DAY-4/floyd.cpp
         DAY-6/constructor_overload.cpp
         DAY-7/multi_level.cpp
         DAY-7/hybrid.cpp
-        DAY-7/operator_overload.cpp)
+        DAY-7/operator_overload.cpp
+        DAY-8/virtual_func.cpp
+        DAY-8/exception_handling.cpp)
