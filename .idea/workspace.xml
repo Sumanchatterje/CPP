@@ -116,11 +116,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Q11_ATM.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="Q11_ATM.cpp" CONFIG_NAME="Q11_ATM.cpp">
       <option name="sourceFile" value="DAY-3\Q11_ATM.cpp" />
       <method v="2">
@@ -152,12 +147,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.constructor_overload.cpp" />
-      <item itemvalue="C/C++ File.train.c" />
-      <item itemvalue="C/C++ File.Q12_ShoppingList.cpp" />
-      <item itemvalue="C/C++ File.Q11_ATM.cpp" />
-      <item itemvalue="C/C++ File.hanoi.cpp" />
       <item itemvalue="CMake Application.CPP" />
+      <item itemvalue="C/C++ File.Q11_ATM.cpp" />
+      <item itemvalue="C/C++ File.Q12_ShoppingList.cpp" />
+      <item itemvalue="C/C++ File.constructor_overload.cpp" />
+      <item itemvalue="C/C++ File.hanoi.cpp" />
+      <item itemvalue="C/C++ File.train.c" />
     </list>
     <recent_temporary>
       <list>
